@@ -13,3 +13,10 @@ basket.forEach(item => {
 })
 
 //             ********** Other methods **********
+
+// for of loop (ES6 feeature)
+for (item of basket) {
+    console.log(item);
+}
+// we use the for key word then creating a variable (item) and its of (keeyword) the basket array
+
