@@ -20,3 +20,17 @@ for (item of basket) {
 }
 // we use the for key word then creating a variable (item) and its of (keeyword) the basket array
 
+// for in loop works with objects - as below 
+const detailedBasket = { 
+    apples:5,
+    oranges:10,
+    grapes:1000
+}
+
+for (item in detailedBasket) {
+    console.log (item)
+}
+
+// this allows us to loop over and see the objects properties 
+// This is not iterating, wee are enumerating as properties of an object are enumerable 
+// 
