@@ -4,7 +4,7 @@
 <ul>
   <li> For of loop ✔️</li>
   <li> For in loop ✔️</li>
-  <li> iterate </li>
+  <li> iterate ✔️</li>
   <li> enumerate</li> 
 </ul>
 
