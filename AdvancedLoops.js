@@ -7,3 +7,9 @@ for (let i=0; i < basket.length; i++ ){
     console.log(basket[i])
 };
 
+//forEach 
+basket.forEach(item => {
+    console.log(item);
+})
+
+//             ********** Other methods **********
